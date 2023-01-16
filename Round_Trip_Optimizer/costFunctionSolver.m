@@ -12,8 +12,10 @@ cargo2 = optimInput(6);
 
 
 global param1 trainedModel;
+
 pax1 = ceil(paxload1 / param1.averagePaxWeightKG); 
 pax2 = ceil(paxload2 / param1.averagePaxWeightKG); 
+%incomes
 ticketIncome = param1.ticketPrice1*pax1 + param1.ticketPrice2*pax2;
 cargoIncome = param1.cargoPrice1 * cargo1 + param1.cargoPrice2*cargo2;
 incomes = ticketIncome+cargoIncome;
