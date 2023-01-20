@@ -14,10 +14,13 @@ Note: This is a demonstration tutorial and is simplified for educational purpose
  
 Youtube Video:
 Part 1:
-https://www.youtube.com/watch?v=W3Dkdxt0R84
+<a href="https://www.youtube.com/watch?v=W3Dkdxt0R84" target="_blank">![fuelPayload1](https://user-images.githubusercontent.com/30341941/213620762-51c0f06e-fe1b-441c-984d-5df2e95a03a3.jpg)</a>
+
 
 Part 2:
-https://www.youtube.com/watch?v=q8PNqz4xChI
+<a href="https://www.youtube.com/watch?v=q8PNqz4xChI" target="_blank">
+![fuelPayload2](https://user-images.githubusercontent.com/30341941/213620811-558cfc45-c8cd-413c-bf8f-315a78c05ebe.jpg)</a>
+
 
 
 [![View Payload_Fuel_Optimizer on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/123240-payload_fuel_optimizer)
