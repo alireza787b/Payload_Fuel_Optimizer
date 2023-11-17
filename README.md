@@ -34,6 +34,4 @@ Explore the project in action through our two-part YouTube series:
 ## Contributing
 Contributions to enhance the project are welcome.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
